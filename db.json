@@ -1,57 +1,59 @@
-[
-  {
-    "id": 59282121,
-    "category": "animal welfare",
-    "title": "Cat Adoption Day",
-    "description": "Find your new feline friend at this event.",
-    "location": "Meow Town",
-    "date": "January 28, 2025",
-    "time": "12:00",
-    "petsAllowed": true,
-    "organizer": "Kat Laydee"
-  },
-  {
-    "id": 44323132,
-    "category": "food",
-    "title": "Community Gardening",
-    "description": "Join us as we tend to the community edible plants.",
-    "location": "Flora City",
-    "date": "March 14, 2025",
-    "time": "10:00",
-    "petsAllowed": true,
-    "organizer": "Fern Pollin"
-  },
-  {
-    "id": 65432345,
-    "category": "sustainability",
-    "title": "Beach Cleanup",
-    "description": "Help pick up trash along the shore.",
-    "location": "Edgewater Park",
-    "date": "April 16, 2025",
-    "time": "11:00",
-    "petsAllowed": false,
-    "organizer": "Jenny Long"
-  },
-  {
-    "id": 8675309,
-    "category": "arts and culture",
-    "title": "Broadway Musical",
-    "description": "Enjoy the performing arts of the Broadway Musical.",
-    "location": "Music Hall",
-    "date": "May 15, 2025",
-    "time": "9:00",
-    "petsAllowed": false,
-    "organizer": "Austin Zell"
-  },
-  {
-    "id": 67342511,
-    "category": "health",
-    "title": "Healthy Living Expo",
-    "description": "Learn how to maintain a healthy lifestyle.",
-    "location": "Greenhouse Community Center",
-    "date": "June 18, 2025",
-    "time": "10:00",
-    "petsAllowed": true,
-    "organizer": "Ethan Green"
-  }
-]
+{
+  "events": [
+    {
+      "id": 59282121,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2025",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 44323132,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2025",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 65432345,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Edgewater Park",
+      "date": "April 16, 2025",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Jenny Long"
+    },
+    {
+      "id": 8675309,
+      "category": "arts and culture",
+      "title": "Broadway Musical",
+      "description": "Enjoy the performing arts of the Broadway Musical.",
+      "location": "Music Hall",
+      "date": "May 15, 2025",
+      "time": "9:00",
+      "petsAllowed": false,
+      "organizer": "Austin Zell"
+    },
+    {
+      "id": 67342511,
+      "category": "health",
+      "title": "Healthy Living Expo",
+      "description": "Learn how to maintain a healthy lifestyle.",
+      "location": "Greenhouse Community Center",
+      "date": "June 18, 2025",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Ethan Green"
+    }
+  ] 
+}
